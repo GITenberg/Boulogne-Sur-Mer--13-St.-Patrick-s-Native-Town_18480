@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8057'
     url: http://www.gutenberg.org/2009/agents/8057
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18480#Boulogne-Sur-Mer--13-St.-Patrick-s-Native-Town
 gutenberg_issued: '2006-06-01'
 gutenberg_type: Text
 identifiers:
